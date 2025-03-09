@@ -39,4 +39,3 @@ def wirte_README_file():
             wf.write("\n")
 
 if __name__=="__main__":
-    wirte_README_file()
