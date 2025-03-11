@@ -28,7 +28,6 @@ def get_Courseware_file_name_list(file_dir="Courseware"):
     return Courseware_file_name_list
 
 
-def wirte_README_file():
     readme_file_head_list = readme_file_head()
     pdf_file_name_list = get_PDF_file_name_list()
     Courseware_file_name_list = get_Courseware_file_name_list()
