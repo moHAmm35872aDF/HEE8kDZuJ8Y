@@ -42,7 +42,6 @@
   A highly scalable, offline-first foundation for your next project with the best DX and a focus on performance and best practices.  Excellent documentation.
   
 - **React Starter Kit**  
-  https://github.com/kriasoft/react-starter-kit  
   A full-featured universal/isomorphic starter kit, with good documentation
   
 - **React Slingshot**  
