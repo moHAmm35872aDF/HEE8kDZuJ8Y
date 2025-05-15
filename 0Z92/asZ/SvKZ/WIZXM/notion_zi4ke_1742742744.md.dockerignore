@@ -26,7 +26,6 @@ data
 .git
 .vscode
 .iml
-.idea
 db.sqlite3
 .mypy_cache
 .pylint.d
