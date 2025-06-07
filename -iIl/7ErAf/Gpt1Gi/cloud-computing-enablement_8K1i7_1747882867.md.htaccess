@@ -39,7 +39,6 @@ RewriteRule ^actions/action_user_administration$ actions/action_user_administrat
 # When the request is using HTTPS
 RewriteCond %{HTTPS} =on
 
-        # Redirect to http if the page requested is igv_link.php, this is because this page needs to load an http:// in an <iframe> which won't work if the page is loaded with https://
         RewriteCond %{REQUEST_URI} ^/igv_link.php.*
 
         # Redirect to HTTP
