@@ -1,0 +1,6 @@
+language: java
+sudo: false
+jdk:
+  - openjdk8
+
+install: mvn clean verify -DskipTests=true -Dmaven.javadoc.skip=true
