@@ -1,0 +1,2 @@
+*.ipynb filter=ipynb_filter
+adaptive/_static_version.py export-subst
